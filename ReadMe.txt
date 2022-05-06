@@ -1,1 +1,5 @@
-Hello this is the beginning
+Hello this is the beginning.
+
+Chapter 1: This is Chapter 1
+
+Chapter 2: This is Chapter 2
